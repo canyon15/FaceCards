@@ -1,0 +1,1 @@
+* Card simulator that creates a virtual deck.

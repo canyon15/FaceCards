@@ -1,3 +1,7 @@
+"""
+card class:
+lays out card data type with value (1-13 or Ace - King) and suit (heart, spade, club, diamond)
+"""
 class Card:
     def __init__(self, value, suit):
         self.value = value
